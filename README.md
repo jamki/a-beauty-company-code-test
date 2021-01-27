@@ -1,7 +1,5 @@
 # Adore
 
-Deployed: https://adore-beauty.vercel.app/
-
 ## Project setup
 ```
 npm install
