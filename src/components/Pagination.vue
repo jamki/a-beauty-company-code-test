@@ -78,10 +78,18 @@ export default {
       background: var(--adore-tertiary);
       border: 0;
       cursor: pointer;
+      font-family: Avenir, Helvetica, Arial, sans-serif;
+      font-weight: bold;
       margin-right: 8px;
       min-width: 15px;
       padding: 16px;
       text-transform: uppercase;
+
+      &:hover,
+      &:focus {
+        background: var(--adore-beauty-loading-color);
+        color: #fff;
+      }
     }
   }  
 </style>

@@ -75,7 +75,7 @@ footer {
 }
 
 a {
-  color: #42b983;
+  color: var(--adore-beauty-loading-color);
 }
 
 .adore-product-description {
