@@ -13,7 +13,7 @@
     </main>
 
     <footer>
-      <p><a href="#">James Kimpton</a> - 2021</p>
+      <p><a href="https://jameskimpton.co.uk/" target="_blank">James Kimpton</a> - 2021</p>
     </footer>
   </div>
 </template>
